@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi there 👋  I am Shalini...
 
-<!--
-**shalukanna/shalukanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## DevOps trainee.
 
-Here are some ideas to get you started:
+![image](https://media.istockphoto.com/id/1303169188/photo/devops-concept.jpg?s=612x612&w=0&k=20&c=RzgMNp4TqIzpjZddZ4Lqyun9uXg5P1uF586BBIy1Fu8=)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A passionate learner ready to tackle all the challenges of the constantly evolving devops field with keen interest.
+
+TECH SKILLS:
+
+<!-- ![image]("https://media.istockphoto.com/id/1303169188/photo/devops-concept.jpg?s=612x612&w=0&k=20&c=RzgMNp4TqIzpjZddZ4Lqyun9uXg5P1uF586BBIy1Fu8=" />) -->
+
+   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=Helm&labelColor=0F1689" /> <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+ 
+ 
+ LANGUAGE:
+  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shalukanna)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ STATS
+ 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shalukanna&show_icons=true&theme=radical)
